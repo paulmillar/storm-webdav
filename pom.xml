@@ -1,10 +1,9 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
  
   <groupId>org.italiangrid</groupId>
   <artifactId>storm-webdav-server</artifactId>
-  <version>1.4.2-desy-1-SNAPSHOT</version>
+  <version>1.4.2-desy-1</version>
   <packaging>jar</packaging>
   <name>storm-webdav-server</name>
 
@@ -479,6 +478,6 @@
       <url>https://github.com/paulmillar/storm-webdav.git</url>
       <connection>scm:git:https://github.com/paulmillar/storm-webdav.git</connection>
       <developerConnection>scm:git:ssh://git@github.com/paulmillar/storm-webdav.git</developerConnection>
-      <tag>v1.4.2-desy</tag>
+      <tag>v1.4.2-desy-1</tag>
   </scm>
 </project>

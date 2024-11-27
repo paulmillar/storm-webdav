@@ -474,4 +474,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+  <scm>
+      <url>https://github.com/paulmillar/storm-webdav.git</url>
+      <connection>scm:git:https://github.com/paulmillar/storm-webdav.git</connection>
+      <developerConnection>scm:git:ssh://git@github.com/paulmillar/storm-webdav.git</developerConnection>
+      <tag>v1.4.2-desy</tag>
+  </scm>
 </project>

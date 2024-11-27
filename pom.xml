@@ -3,7 +3,7 @@
  
   <groupId>org.italiangrid</groupId>
   <artifactId>storm-webdav-server</artifactId>
-  <version>1.4.2-desy-1</version>
+  <version>1.4.2-desy-2-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>storm-webdav-server</name>
 
@@ -478,6 +478,6 @@
       <url>https://github.com/paulmillar/storm-webdav.git</url>
       <connection>scm:git:https://github.com/paulmillar/storm-webdav.git</connection>
       <developerConnection>scm:git:ssh://git@github.com/paulmillar/storm-webdav.git</developerConnection>
-      <tag>v1.4.2-desy-1</tag>
+      <tag>v1.4.2-desy</tag>
   </scm>
 </project>
